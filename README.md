@@ -1,7 +1,7 @@
-#📌 project1
+# project1
 ![viewfinal](https://s6.uupload.ir/files/annotation_2023-10-07_230218_2pdz.png)
 
-- [Demo Project](https://mehdisoleimaniweb.github.io/project1/)
+- 📌[Demo Project](https://mehdisoleimaniweb.github.io/project1/)
 
 - Developed by mehdi soleimani
 
